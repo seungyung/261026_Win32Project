@@ -1,5 +1,5 @@
 ﻿// 261026_Win32Project.cpp : 애플리케이션에 대한 진입점을 정의합니다.
-//
+// TestCommit
 
 #include "framework.h"
 #include "261026_Win32Project.h"
